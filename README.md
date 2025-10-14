@@ -1,6 +1,6 @@
 ## 1. Qué es un *prompt*
 
-Un **prompt** es una *instrucción o estímulo textual* que le das a una IA (como yo) para que genere una respuesta, texto, imagen, código, etc.
+Un **prompt** es una *instrucción o estímulo textual* que le das a una IA para que genere una respuesta, texto, imagen, código, etc.
 
 Pero **no es solo una orden**: es una forma de *diálogo creativo estructurado*.
 El *prompt* define **contexto**, **intención** y **dirección**.
@@ -73,11 +73,9 @@ Por ejemplo:
 
 ---
 
-## 5. Estrategia avanzada: *Prompt layering* (capas de intención)
+## 5. Estrategia avanzada: *Prompt layering*
 
-En el *prompting* se superponen **capas de instrucción**.
-
-Por ejemplo:
+Superponer **capas de instrucción**. Por ejemplo:
 
 1. **Capa base:** Describe la tarea.
    → “Escribe una historia breve sobre el nacimiento del cosmos.”
